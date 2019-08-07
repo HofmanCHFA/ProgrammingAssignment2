@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-# This function will store the matrix in cacha to allow faster computing 
+# This function will store the matrix in cache to allow faster computing 
 
 makeCacheMatrix <- function(matrix = matrix()) {
   inverse <- NULL
